@@ -1,0 +1,6 @@
+sudo ifconfig wlp3s0:1 172.20.17.1 netmask 255.255.255.0 up
+sudo ifconfig wlp3s0:2 172.20.17.2 netmask 255.255.255.0 up
+sudo ifconfig wlp3s0:3 172.20.17.3 netmask 255.255.255.0 up
+sudo ifconfig wlp3s0:4 172.20.17.4 netmask 255.255.255.0 up
+sudo ifconfig wlp3s0:5 172.20.17.5 netmask 255.255.255.0 up
+sudo ifconfig wlp3s0:200 172.20.17.200 netmask 255.255.255.0 up
